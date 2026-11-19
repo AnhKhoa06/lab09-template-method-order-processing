@@ -23,9 +23,6 @@ Các bước thay đổi:
 - `src/`: mã nguồn Java (`Main`, `Order`, `OrderItem`, `OrderProcessor` và ba lớp xử lý cụ thể)
 - `images/`: sơ đồ UML và ảnh kết quả
 
-## Cách chạy
-Mở project bằng Eclipse (File > Import > Existing Projects into Workspace), rồi chạy `Main.java`.
-
 ## Sơ đồ UML lớp
 ![UML](images/UML_Lab09.png)
 
